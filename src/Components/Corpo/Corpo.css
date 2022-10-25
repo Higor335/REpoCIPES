@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+    background-color: rgb(109, 183, 252);
+}
+
+button{
+    color: black;
+    position: absolute;
+}
+
+.botao1{
+    font-size: large;
+    left: 34%;
+    top: 11.5%;
+    border: 0.1px solid rgb(0, 0, 0);
+}   
+
+.botao2{
+    font-size: large;
+    left: 62%;
+    top: 11.5%;
+    border: 0.1px solid rgb(0, 0, 0);
+}

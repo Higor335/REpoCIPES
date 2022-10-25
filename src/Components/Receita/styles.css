@@ -1,0 +1,10 @@
+.fundo{
+    border-radius: 2rem;
+    background-color: rgb(109, 183, 252);
+    width: 50%;
+    height: 100%;
+    border: 1;
+    padding: 10px;
+    left: 25%;
+    position: relative;
+}
