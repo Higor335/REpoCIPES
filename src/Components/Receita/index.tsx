@@ -4,7 +4,7 @@ export default function Receita({receita}:any){
     return (
        
             <div className="fundo">
-                <h3>{receita.nome}</h3>
+                <h2>{receita.nome}</h2>
                 {receita.secao.map((sec:any)=>(
                     <div>
                         <h5>{sec.nome}</h5>
