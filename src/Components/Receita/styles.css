@@ -12,3 +12,13 @@
 h2{
     font-size: 2rem;
 }
+
+@media (max-width: 767px) {
+
+    .fundo{        
+        margin-top: 23px;        
+        margin-left: -18%;
+        width: 80%;
+    }
+
+}

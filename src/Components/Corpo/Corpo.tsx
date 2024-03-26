@@ -26,7 +26,7 @@ function decrementar(){
                     <button className="botao2" onClick={incrementar}>&gt;</button>
                 </div>
                 
-                <div> 
+                <div className="receita"> 
                     <Receita receita={receitas[indice]} />
                 </div>
             </div>
